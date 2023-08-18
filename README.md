@@ -47,6 +47,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:coding-to-music/next-sanity-tailwind-demo-studio.git
 git push -u origin main
+
 ```
 
 # Sanity Clean Content Studio
